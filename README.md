@@ -29,6 +29,8 @@ The refactored code compiled in 0.125 seconds for both 2017 and 2018, which is a
 
 The purpose of refactoring code is to improve the design of the code. There are several advantages to refactoring code, which include: removal of duplicate code, redesigning code to reduce the number of hardcoded lines and reducing run time while maintaining results quality. The refactoring process also allows programmers to improve documentation and readability of the code. However, it is important to be cognizant of the disadvantages of refactoring code, which include: possibility to introduce bugs, risk of overshooting deadlines, and faulty or suboptimal logic that lead to lower quality results. To avoid the disadvantages of refactoring code, it is recommended that the programming team have sufficient time to refactor and test the code thoroughly prior to the delivery deadline.
 
+### Impact of Refactoring the Script in this Project
+
 In this project, refactoring the code produced the following advantages: 
 * the execution time is 4x faster
 * the refactored code is easier to scale compared to the original code making it more agile for future development (i.e. if more tickers are added)
